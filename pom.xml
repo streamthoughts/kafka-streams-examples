@@ -27,7 +27,7 @@
 
     <properties>
         <kafka.streams.version>2.3.0</kafka.streams.version>
-        <log4j.version>2.12.1</log4j.version>
+        <log4j.version>2.16.0</log4j.version>
         <junit.version>4.12</junit.version>
     </properties>
 
